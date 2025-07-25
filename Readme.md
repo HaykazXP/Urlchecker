@@ -20,7 +20,7 @@ A Node.js tool to check URLs from a sitemap or a list of routes, logging forbidd
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Urlchecker.git
+git clone https://github.com/HaykazXP/Urlchecker.git
 cd Urlchecker
 ```
 > Replace the URL with your repository address if different.
